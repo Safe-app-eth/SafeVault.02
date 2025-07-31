@@ -1,0 +1,23 @@
+{
+  "id": "safevault",
+  "name": "SafeVault",
+  "description": "Governance and automation platform for Safe{Wallet}, powered by GitHub Actions, Reown AppKit, and Safe SDK.",
+  "iconUrl": "https://your-safevault-url.com/icon.png",
+  "url": "https://your-safevault-url.com",
+  "chainIds": [1, 10, 137, 42161, 100, 8453, 1101],
+  "accessControl": {
+    "type": "no_restriction"
+  },
+  "provider": "Reown",
+  "tags": ["governance", "automation", "safe", "multisig", "github", "reown"],
+  "version": "1.0.0",
+  "author": {
+    "name": "SafeVault",
+    "email": "support@safevault.xyz",
+    "website": "https://your-safevault-url.com"
+  },
+  "socialLinks": {
+    "telegram": "https://t.me/SafeVaultBot",
+    "github": "https://github.com/thegoodeth/SafeVault"
+  }
+}
